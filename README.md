@@ -10,6 +10,6 @@ test cases in this automation project to make the testing more efficient and fas
 ![image](https://github.com/Imrulhassankhanporosh/Skyscanner_API/assets/52894925/2160928f-db44-4205-858c-f3bedc5e53a5)
 
  
-**How to execute the project** :
+# **How to execute the project** :
 
 The test cases of 5 endpoints are implemented as test methods in the 5 classes. All the 5 classes are configured in testng.xml as a collection of test classes. We just need to run the testng.xml file to execute all the test cases that are implemented in the project.
